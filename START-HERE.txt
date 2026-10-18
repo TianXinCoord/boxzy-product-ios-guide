@@ -1,1 +1,2 @@
-打开 BOXZY-iOS-PRODUCT-GUIDE.html。请保留 assets 文件夹；完全离线。内容仅含最终UI、老UI对比、UI标注、产品说明。
+打开 BOXZY-iOS-PRODUCT-GUIDE.html；请保留同级 assets 文件夹，可完全离线使用。
+38 个模块，20 个模块标记「存在UI优化」。已修改模块展示老图、新图和说明文字；用户名 6 个状态保持原样。

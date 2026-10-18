@@ -1,0 +1,14 @@
+{
+  "desktopThreeColumns": true,
+  "statePairSwitch": true,
+  "zoomAndEscape": true,
+  "searchResultCount": 7,
+  "updatedFilterCount": 20,
+  "usernameStates": 6,
+  "hashReveal": true,
+  "tabletHorizontalOverflow": false,
+  "mobileHorizontalOverflow": false,
+  "brokenImages": [],
+  "pageErrors": [],
+  "scope": "HTML guide only; no native app or business runtime validation"
+}
