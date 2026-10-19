@@ -1,16 +1,10 @@
 {
-  "source_single_file_sha256": "39fa27198c997d765be0bf12869dd0ce52cf274adb8631255d4ed996ddc6ee2f",
-  "repository_html_sha256": "12e7b21a62e7357ad23546ef5411ddfa2848cbf450551382227ed09ec26fa013",
+  "source_single_file_sha256": "bc9dcc490ae22ba1a6b5c3d93ee7d56df9c8e3d0d14aeec170c0b78d47e34723",
+  "repository_html_sha256": "e783b463bde9ecfb56bb611f8e0717da2c8bd05301e10118c7caf2ff22a7fbca",
   "image_occurrences": 78,
   "unique_images": 77,
   "exact_round_trip_verified": true,
   "images": [
-    {
-      "path": "assets/ui-review-20261016/76126406f9068e072101.png",
-      "sha256": "76126406f9068e0721015ae23302a551be21faaa99212c742755ae7d64512f6e",
-      "bytes": 1814911,
-      "mime": "image/png"
-    },
     {
       "path": "assets/ui-review-20261016/ce480b911467464fa157.png",
       "sha256": "ce480b911467464fa157bf8e57d850e0db6abe65a79fffda6124f45254481dd5",
@@ -465,6 +459,12 @@
       "path": "assets/38-support-article-old.png",
       "sha256": "fef6f2093c0a99e64102b799099630ffd20d189914eb97bb0fd37d4f0b41cd2b",
       "bytes": 156041,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/ui-review-20261016/914f4922940b7972bca5.png",
+      "sha256": "914f4922940b7972bca54e9bae14107e30f4cf99aafb692c04d163ad1dcad821",
+      "bytes": 714983,
       "mime": "image/png"
     }
   ]
