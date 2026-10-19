@@ -1,0 +1,33 @@
+{
+  "basis": "Approved home-balanced-v3.png, 851x1848; approximate visible artwork measurement normalized to a 393 CSS px stage. Implementation target, not device DPR.",
+  "stage_width_css_px": 393,
+  "stage_height_css_px": 228,
+  "slots": [
+    {
+      "position": "left",
+      "x": 18,
+      "y": 40,
+      "width": 94,
+      "height": 102
+    },
+    {
+      "position": "center",
+      "x": 119,
+      "y": 0,
+      "width": 155,
+      "height": 162
+    },
+    {
+      "position": "right",
+      "x": 281,
+      "y": 40,
+      "width": 94,
+      "height": 102
+    }
+  ],
+  "horizontal_gap_css_px": 7,
+  "caption_gap_css_px": 8,
+  "scaling": "stageWidth / 393; stageWidth = min(available viewport width, 430 CSS px); center stage horizontally on larger screens",
+  "image_rule": "Visible box artwork bounds only; excludes name, price and glow. Normalize transparent asset padding. Contain artwork; never stretch or crop.",
+  "slot_rule": "Size follows active/adjacent position, not box type. Four box types; three visible positions."
+}
