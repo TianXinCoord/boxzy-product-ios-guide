@@ -1,16 +1,10 @@
 {
-  "source_single_file_sha256": "bc9dcc490ae22ba1a6b5c3d93ee7d56df9c8e3d0d14aeec170c0b78d47e34723",
-  "repository_html_sha256": "e783b463bde9ecfb56bb611f8e0717da2c8bd05301e10118c7caf2ff22a7fbca",
+  "source_single_file_sha256": "550f29594889db53cff40e24596675c2707efdccf35b258d839298953336a3b2",
+  "repository_html_sha256": "489e8386d3d41c6c2a922ddbcaf6af73113fd054f8a131c9a08bd0a5648b97e5",
   "image_occurrences": 78,
   "unique_images": 77,
   "exact_round_trip_verified": true,
   "images": [
-    {
-      "path": "assets/ui-review-20261016/ce480b911467464fa157.png",
-      "sha256": "ce480b911467464fa157bf8e57d850e0db6abe65a79fffda6124f45254481dd5",
-      "bytes": 1784423,
-      "mime": "image/png"
-    },
     {
       "path": "assets/ui-review-20261016/0723c78752df22be38dc.png",
       "sha256": "0723c78752df22be38dccd5b801cfc891ed22723b02442b8e817de0db3f8defe",
@@ -465,6 +459,12 @@
       "path": "assets/ui-review-20261016/914f4922940b7972bca5.png",
       "sha256": "914f4922940b7972bca54e9bae14107e30f4cf99aafb692c04d163ad1dcad821",
       "bytes": 714983,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/ui-review-20261016/95843feae3a15d905808.png",
+      "sha256": "95843feae3a15d905808e1811185c5c7fe8490eae017205fee7db61652c9e800",
+      "bytes": 1728917,
       "mime": "image/png"
     }
   ]
