@@ -1,10 +1,28 @@
 {
-  "source_single_file_sha256": "49765d6baa43db6129074652cd76c7ddd742c00d12d8dc18b194e5e8d2020689",
-  "repository_html_sha256": "f38a0786ca8183f4cdc94690736887bef167b36f0d038a452ccb6f5661a5a4ae",
-  "image_occurrences": 83,
-  "unique_images": 82,
+  "source_single_file_sha256": "32cdefb5db41de06f7b1d03ca6c758a8d8af484d23f6d063e1e1e05231e0d088",
+  "repository_html_sha256": "16c3b17750c7da57ac82a326e6c972ae59e1bd32ea847cfd48682f980348eadd",
+  "image_occurrences": 86,
+  "unique_images": 85,
   "exact_round_trip_verified": true,
   "images": [
+    {
+      "path": "assets/shared-footer-20261022/ad92225d1e826ede3e36.png",
+      "sha256": "ad92225d1e826ede3e363ef0c05209487ebc84616dcbe506e5a4ea9e21c9c46d",
+      "bytes": 1643397,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/shared-footer-20261022/964304c69f2859f4cdee.png",
+      "sha256": "964304c69f2859f4cdee1dae9e2f00255ef126c0b21e9bc7f8ff3b31242e67ae",
+      "bytes": 1653142,
+      "mime": "image/png"
+    },
+    {
+      "path": "assets/shared-footer-20261022/18b43b0f391d30eb5bf5.png",
+      "sha256": "18b43b0f391d30eb5bf53a223d1e8957c3b497a5f5a36c8205594f2a2065859b",
+      "bytes": 1368149,
+      "mime": "image/png"
+    },
     {
       "path": "assets/ui-review-20261016/914f4922940b7972bca5.png",
       "sha256": "914f4922940b7972bca54e9bae14107e30f4cf99aafb692c04d163ad1dcad821",

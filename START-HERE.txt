@@ -1,3 +1,3 @@
-打开 BOXZY-iOS-PRODUCT-GUIDE.html；请保留同级 assets 文件夹，可完全离线使用。
-39 个模块，21 个模块标记「存在UI优化」。已修改模块展示老图、新图和说明文字；用户名 6 个状态保持原样。
-2026-10-19：补齐 Account、Live Pull 和 Leaderboard。Live Pull 位于选盒首页之后。
+打开 BOXZY-iOS-PRODUCT-GUIDE.html，保留同级 assets 文件夹。
+共 40 个模块，22 项存在UI优化。侧边栏最前为公共页脚：查看首页与联系邮箱弹窗，以及全站 H5 展示和审核后可隐藏的配置要求。
+本次仅更新产品说明，不代表 H5 功能已实现。静态校验见 latest-ui-verification.json。
